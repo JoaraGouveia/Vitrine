@@ -1,5 +1,6 @@
 # Vitrine
 Projeto para aula, em progresso!!
 
-![Home](https://user-images.githubusercontent.com/95251633/165961791-3344dd1d-1720-4913-b2b2-872f34dd9d2e.png)
-![produtos](https://user-images.githubusercontent.com/95251633/165961786-38201b4c-ba84-45c4-983e-ede0658824a3.png)
+![produtos](https://user-images.githubusercontent.com/95251633/166504887-8e6d1b6a-7f24-4a89-8a77-44101642bf4b.png)
+![Home](https://user-images.githubusercontent.com/95251633/166504855-f0f65acb-e45e-41c0-9022-70566f16a974.png)
+
